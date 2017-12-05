@@ -1,0 +1,4 @@
+class name : RemindMap
+class variable : start, goal, mapSize, load
+method : fileI/O, playerStart, playerGoal, playerMove, wallEncounter
+construct : start, goal, mapSize, load
